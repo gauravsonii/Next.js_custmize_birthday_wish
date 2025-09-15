@@ -1,0 +1,78 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  padding: 3rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.span {
+  color: var(--color);
+}
+
+.desc {
+  text-align: center;
+  font-weight: 600;
+}
+
+.desc .span {
+  text-decoration: none;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 2em;
+  text-align: center;
+}
+
+.form {
+  border-radius: 45px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  min-width: 12rem;
+  border: none;
+  outline: none;
+  margin: 24px;
+  font-size: 16px;
+}
+
+.themeWrapper {
+  padding-bottom: 2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.theme {
+  position: absolute;
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  justify-items: center;
+}
+
+.theme input {
+  cursor: pointer;
+}
+
+.button {
+  margin-right: 8px;
+}
