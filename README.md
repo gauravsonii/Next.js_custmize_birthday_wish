@@ -55,45 +55,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 I would like to show my sincere gratitude to these amazing people for making this simple project a big deal. 
 
-Without their contributions, this project wouldn't be as good as it is right now.
-
-- [@PhattOZ](https://github.com/PhattOZ) <br />
-    Major [contribution](https://github.com/gouravkhunger/nextjs-birthday-wish/commits?author=PhattOZ): Super awesome copy wish link, wavy animation, style fixes.
-
-- [@adarshzpatel](https://github.com/adarshzpatel) <br />
-    Major [contribution](https://github.com/gouravkhunger/nextjs-birthday-wish/commits?author=adarshzpatel): Multicolour theme.
-
-- [@Sejal-16](https://github.com/Sejal-16) <br />
-    Major [contribution](https://github.com/gouravkhunger/nextjs-birthday-wish/commits?author=Sejal-16): Birthday quotes idea, background music.
-
-Checkout [all the contributors](https://github.com/gouravkhunger/nextjs-birthday-wish/graphs/contributors).
-
 ## Credits
 
 <div>Favicon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.</div>
-
-## License
-
-```
-MIT License
-
-Copyright (c) 2021 Gourav Khunger
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
